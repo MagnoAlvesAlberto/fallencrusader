@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Home</div>
+    return <div>Core das 20h Reunião terça dia 24 as 20:00</div>
 }
 
 export default Home
